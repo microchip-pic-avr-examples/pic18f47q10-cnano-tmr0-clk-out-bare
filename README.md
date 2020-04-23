@@ -66,7 +66,7 @@ The following configurations must be made for this project:
 5. Program the project to the board: right click on the project and click *Make and Program Device*:
 <br><img src="images/TMR0-clk-out-bare-program.png" width="600">
 
-Demo:
+Result:
 
 <img src="images/TMR0_clk_out_RC2.png" alt="Hardware Setup"/>
 
