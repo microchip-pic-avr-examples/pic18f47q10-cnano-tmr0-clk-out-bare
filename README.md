@@ -9,7 +9,7 @@
 This repository contains an example of bare-metal source code for TMR0 as described in [*TBxxxx - Getting Started with Timers/Counters on PIC18*](https://www.microchip.com/) document from Microchip.
 
 <br>This example describes how to configure TMR0 in 8-bit mode, using LFINTOSC as clock source.
-<br>A GPIO pin will be configured as output and a 125 Hz signal will be generated on the GPIO pin using the Peripheral Pin Select (PPS).
+<br>A GPIO pin will be configured as output and a 125 Hz signal will be generated on the GPIO pin (RC2) using the Peripheral Pin Select (PPS).
 
 ## Related Documentation
 - [TBxxxx - Getting Started with Timers/Counters on PIC18](http://www.microchip.com/)
@@ -67,7 +67,7 @@ The following configurations must be made for this project:
 <br><img src="images/TMR0-clk-out-bare-program.png" width="600">
 
 Result:
-
+<br>RC2 pin - Channel 0 (black) in the screenshot below
 <img src="images/TMR0_clk_out_RC2.png" alt="Hardware Setup"/>
 
 
