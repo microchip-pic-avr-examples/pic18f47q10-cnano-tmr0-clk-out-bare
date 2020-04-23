@@ -68,7 +68,7 @@ The following configurations must be made for this project:
 
 Result:
 <br>RC2 pin - Channel 0 (black) in the screenshot below
-<img src="images/TMR0_clk_out_RC2.png" alt="Hardware Setup"/>
+<br><img src="images/TMR0_clk_out_RC2.png" alt="Hardware Setup"/>
 
 
 ## Summary
